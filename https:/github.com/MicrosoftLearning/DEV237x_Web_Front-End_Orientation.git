@@ -1,0 +1,6 @@
+<!doctype html>
+ <html>
+  <head>My First HTML Page</head>
+  <body>
+   <h1>Welcome to my first HTML site!</h1>
+    <p>Here's an example of where a paragraph would go.</p>
